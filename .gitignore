@@ -1,3 +1,7 @@
+#Ignore temp files
+*~
+*#
+
 *.acn
 *.acr
 *.alg
