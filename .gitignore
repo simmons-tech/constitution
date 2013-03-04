@@ -1,7 +1,16 @@
-#Ignore temp files
+# Ignore temp files
 *~
 *#
 
+# Ignore htlatex files...
+*.4ct
+*.4tc
+*.idv
+*.lg
+*.tmp
+*.xref
+
+# Standard Github Ignores for LaTeX
 *.acn
 *.acr
 *.alg
